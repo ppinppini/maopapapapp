@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maopapapapp/static/css/main.645cda42.css",
+    "main.js": "/maopapapapp/static/js/main.8d4dc141.js",
+    "static/js/787.cda612ba.chunk.js": "/maopapapapp/static/js/787.cda612ba.chunk.js",
+    "index.html": "/maopapapapp/index.html",
+    "main.645cda42.css.map": "/maopapapapp/static/css/main.645cda42.css.map",
+    "main.8d4dc141.js.map": "/maopapapapp/static/js/main.8d4dc141.js.map",
+    "787.cda612ba.chunk.js.map": "/maopapapapp/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645cda42.css",
+    "static/js/main.8d4dc141.js"
+  ]
+}
